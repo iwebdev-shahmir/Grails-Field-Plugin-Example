@@ -1,0 +1,6 @@
+#Mon, 27 Jul 2020 11:16:50 +0500
+
+info.app.version=0.1
+info.app.name=practice_plugin
+grails.env=development
+info.app.grailsVersion=3.2.6
